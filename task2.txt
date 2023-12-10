@@ -1,0 +1,14 @@
+Difference between Document and window obect:
+
+window Object:
+
+The window object represents the browser window or tab.
+It is the top-level object in the client-side JavaScript environment.
+It contains properties and methods that are global to the entire browsing context.
+Examples of window properties include location (information about the URL), navigator (information about the browser), and console (for debugging).
+document Object:
+
+The document object represents the HTML document loaded in the browser.
+It is a property of the window object and provides access to the content and structure of the document.
+It contains methods and properties for manipulating and interacting with the content of the current web page.
+Examples of document properties include getElementById(), (retrieving an element by its ID), querySelector(), (selecting the first element that matches a CSS selector), and createElement() (creating a new HTML element).
